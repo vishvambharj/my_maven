@@ -20,6 +20,6 @@ public class AppTest
     public void testAppMessage()
     {
         App app = new App();
-        assertEquals("Hello World! This is Vishvambhar Joshi from Remiges Technologies", app.getMessage());
+        assertEquals("Hello World! This is Vishvambhar Joshi from Remiges Technologies Pvt Ltd", app.getMessage());
     }
 }
